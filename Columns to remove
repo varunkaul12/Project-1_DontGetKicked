@@ -1,0 +1,9 @@
+Remove following columns from data
+
+RefID - Sequential Number assigned
+VehYear - As VehicleAge will give you VehYear too
+WheelType - Type of vehicle
+PrimeUnit - As it is mostly empty only 4 % data
+AUCGUART - As is is mostly empty
+VNZIP - ZipCode , as state infomration is already there in another column
+IsOnlineSale - If the vehicle was purchased online in an auction
